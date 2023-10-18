@@ -1,43 +1,65 @@
-# Hello there! I'm Ijini Uthpala 🚀
+# Hello, World! I'm Ijini Lekamge 🚀
 
 ---
 
-### 🌍 **My Journey**
+### 🎓 **My Academic Adventure**
 
-📚 Currently, I'm a **second-year student** at **JAMK University of Applied Sciences**, currently navigating the deep waters of Full Stack Development, IoT, and Project Management etc...
-
-🇱🇰 Before stepping into the world of tech at JAMK, I embarked on a journey in **Digital Marketing** in Sri Lanka, spanning from October 2019 to February 2021.
+Currently deepening my expertise as a **second-year student** at **JAMK University of Applied Sciences**. My focus spans Full Stack Development, IoT, and Project Management. Each day offers a new lesson, a new challenge, and a step closer to mastery.
 
 ---
 
-### 💼 **Career Aspirations**
+### 🌍 **Journey Thus Far**
 
-🔍 My goal is to fuse my experiences and education into a dynamic role as a **Software Developer**.
+Before embracing the tech ecosystem at JAMK, my professional quest commenced in Sri Lanka. From October 2019 to February 2021, I honed my skills in **Digital Marketing**, absorbing the nuances of online brand narratives and consumer engagement.
 
 ---
 
-### 🛠 **Skills & Knowledge**
+### 💼 **Professional Aspirations**
 
-| Skills & Knowledge | Details |
+With an eclectic blend of skills and a burning passion for technology, I envision myself evolving into a stellar **Software Developer**. As I chart this journey, I am driven by innovation, problem-solving, and the endless possibilities of the digital realm.
+
+---
+
+### 🛠 **Skills & Proficiencies**
+
+| Category | Skills |
 |---|---|
-| **Programming** | Proficient in `Python`, currently diving into `JavaScript` |
-| **Web Technologies** | Solid grounding in `HTML`, `CSS`, and `JavaScript` |
-| **Version Control** | Adept with `Git Labranet`, an integral tool in my university projects |
-| **Operating Systems** | Comfortable navigating the `Linux` landscape |
-| **Databases** | Skilled in designing and querying `SQL databases` |
-| **Networking** | Know-how in data network structures and transmission |
+| **Programming** | Proficient in `Python`, advancing in `JavaScript` |
+| **Web Technologies** | Grounded in `HTML`, `CSS`, and `JavaScript` |
+| **Version Control** | Adept with `Git Labranet` - a cornerstone in my academic projects |
+| **Operating Systems** | Fluent with the `Linux` environment |
+| **Databases** | Skilled in architecting and managing `SQL databases` |
+| **Networking** | Comprehensive understanding of data network dynamics |
 
 ---
 
-### 📬 **Connect with Me**
+### 🏆 **Current Projects & Accomplishments**
 
-I'm always open to collaboration, discussions, or just a chat! Feel free to reach out. 
+- **IoT Project**: Crafting an autonomous robot control system. This venture not only tests my technical prowess but also my ability to manage and execute projects efficiently, ensuring timely delivery and optimal functionality.
+  
+- **Training**: Actively engaged in learning the intricacies of efficient project management, ensuring every venture I undertake meets the gold standards of quality and efficiency.
+
+---
+
+### 📌 **Soft Skills**
+
+In addition to my technical skills, I bring to the table a suite of soft skills crucial in the modern workspace:
+
+- **Teamwork**: Collaborative projects, both in my Digital Marketing stint and at JAMK, have instilled in me the value of collective effort.
+  
+- **Communication**: Be it explaining a complex algorithm or articulating project goals, effective communication is my forte.
+
+- **Leadership**: Leading project teams and ensuring seamless execution has given me invaluable leadership experience.
+
+---
+
+### 💌 **Connect & Collaborate**
+
+Whether you're intrigued by my journey, looking to collaborate, or just up for a tech chat over virtual coffee, feel free to reach out. Let's bridge the digital divide, one connection at a time!
 
 💼 [LinkedIn](Your_LinkedIn_Profile_Link)
-🐦 [Twitter](Your_Twitter_Profile_Link)
 🌐 [Personal Portfolio](Your_Personal_Website_Link_if_You_Have_One)
 
 ---
 
 ⭐️ From [Your GitHub username](https://github.com/your_github_username)
-
