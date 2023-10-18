@@ -1,10 +1,10 @@
-# Hello there! I'm [Your Name] 🚀
+# Hello there! I'm Ijini Uthpala 🚀
 
 ---
 
 ### 🌍 **My Journey**
 
-📚 Currently, I'm a **second-year student** at **JAMK University of Applied Sciences**, navigating the deep waters of Full Stack Development, IoT, and Project Management.
+📚 Currently, I'm a **second-year student** at **JAMK University of Applied Sciences**, currently navigating the deep waters of Full Stack Development, IoT, and Project Management etc...
 
 🇱🇰 Before stepping into the world of tech at JAMK, I embarked on a journey in **Digital Marketing** in Sri Lanka, spanning from October 2019 to February 2021.
 
