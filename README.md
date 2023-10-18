@@ -57,8 +57,8 @@ In addition to my technical skills, I bring to the table a suite of soft skills 
 
 Whether you're intrigued by my journey, looking to collaborate, or just up for a tech chat over virtual coffee, feel free to reach out. Let's bridge the digital divide, one connection at a time!
 
-💼 [LinkedIn](Your_LinkedIn_Profile_Link)
-🌐 [Personal Portfolio](Your_Personal_Website_Link_if_You_Have_One)
+💼 [LinkedIn]()
+🌐 [Personal Portfolio]()
 
 ---
 
