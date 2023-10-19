@@ -57,7 +57,7 @@ In addition to my technical skills, I bring to the table a suite of soft skills 
 
 Whether you're intrigued by my journey, looking to collaborate, or just up for a tech chat over virtual coffee, feel free to reach out. Let's bridge the digital divide, one connection at a time!
 
-💼 [LinkedIn]()
+💼 [LinkedIn](https://www.linkedin.com/in/ijini-lekamge-38233928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 🌐 [Personal Portfolio]()
 
 ---
