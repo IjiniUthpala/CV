@@ -24,8 +24,10 @@ With an eclectic blend of skills and a burning passion for technology, I envisio
 
 | Category | Skills |
 |---|---|
-| **Programming** | Proficient in `Python`, advancing in `JavaScript` |
+| **Programming** | Proficient in `Python`, `JavaScript`, `C#` |
 | **Web Technologies** | Grounded in `HTML`, `CSS`, and `JavaScript` |
+| **Scripting & Automation** | Experienced in scripting for task automation |
+| **Cloud Computing** | Basic knowledge of cloud computing principles and services |
 | **Version Control** | Adept with `Git Labranet` - a cornerstone in my academic projects |
 | **Operating Systems** | Fluent with the `Linux` environment |
 | **Databases** | Skilled in architecting and managing `SQL databases` |
