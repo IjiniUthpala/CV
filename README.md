@@ -39,11 +39,9 @@ With an eclectic blend of skills and a burning passion for technology, I envisio
 
 - **IoT Project**: Crafting an autonomous robot control system. This venture not only tests my technical prowess but also my ability to manage and execute projects efficiently, ensuring timely delivery and optimal functionality.
 
-- ## Collaborative Image Gallery Web Application
+- **Collaborative Image Gallery Web Application**: Developed a robust Collaborative Image Gallery web application showcasing my proficiency in full-stack web development. Leveraging JavaScript, Node.js, Express, and MongoDB, I crafted a feature-rich platform with user authentication, seamless image uploads, and interactive functionalities.
 
-Developed a robust Collaborative Image Gallery web application showcasing my proficiency in full-stack web development. Leveraging JavaScript, Node.js, Express, and MongoDB, I crafted a feature-rich platform with user authentication, seamless image uploads, and interactive functionalities.
-
-### Key Features:
+#### Key Features:
 - **User Authentication:** Implemented a secure user authentication system to ensure privacy and personalization.
 - **Image Uploads:** Enabled users to effortlessly upload images, contributing to the collaborative gallery.
 - **Interactive Features:** Incorporated interactive elements to enhance user engagement and foster collaboration.
