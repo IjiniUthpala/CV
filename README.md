@@ -24,7 +24,8 @@ With an eclectic blend of skills and a burning passion for technology, I envisio
 
 | Category | Skills |
 |---|---|
-| **Programming** | Proficient in `Python`, `JavaScript`, `C#` |
+| **Programming** | Proficient in `Python`, `JavaScript`, `C#` | React | Node.js |Basic of Redux | React router |
+
 | **Web Technologies** | Grounded in `HTML`, `CSS`, and `JavaScript` |
 | **Scripting & Automation** | Experienced in scripting for task automation |
 | **Cloud Computing** | Basic knowledge of cloud computing principles and services |
@@ -66,6 +67,7 @@ In addition to my technical skills, I bring to the table a suite of soft skills 
 - **Leadership**: Leading project teams and ensuring seamless execution has given me invaluable leadership experience.
 
 ---
+
 
 ### 💌 **Connect & Collaborate**
 
