@@ -12,6 +12,8 @@ Currently deepening my expertise as a **second-year student** at **JAMK Universi
 
 Before embracing the tech ecosystem at JAMK, my professional quest commenced in Sri Lanka. From October 2019 to February 2021, I honed my skills in **Digital Marketing**, absorbing the nuances of online brand narratives and consumer engagement.
 
+Currently, Working as a **Marketing Content Creator-Intern** at Aika Solutions Oy in Finland Jyväskylä. From March 2024 until May 2024
+
 ---
 
 ### 💼 **Professional Aspirations**
@@ -24,14 +26,14 @@ With an eclectic blend of skills and a burning passion for technology, I envisio
 
 | Category | Skills |
 |---|---|
-| **Programming** | Proficient in `Python`, `JavaScript`, `C#` | React | Node.js |Basic of Redux | React router |
+| **Programming** | Proficient in `Python`, `JavaScript`, `C#` , 'React' , 'Node.js' , 'Basic of Redux' , 'React router' , 'Docker' | 
 
 | **Web Technologies** | Grounded in `HTML`, `CSS`, and `JavaScript` |
 | **Scripting & Automation** | Experienced in scripting for task automation |
 | **Cloud Computing** | Basic knowledge of cloud computing principles and services |
 | **Version Control** | Adept with `Git Labranet` - a cornerstone in my academic projects |
 | **Operating Systems** | Fluent with the `Linux` environment |
-| **Databases** | Skilled in architecting and managing `SQL databases` |
+| **Databases** | Skilled in architecting and managing `SQL databases`and 'MongoDB' |
 | **Networking** | Comprehensive understanding of data network dynamics |
 
 ---
