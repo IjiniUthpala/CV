@@ -4,7 +4,7 @@
 
 ### 🎓 **My Academic Adventure**
 
-Currently deepening my expertise as a **second-year student** at **JAMK University of Applied Sciences**. My focus spans Full Stack Development, IoT, and Project Management. Each day offers a new lesson, a new challenge, and a step closer to mastery.
+Currently deepening my expertise as a **third-year student** at **JAMK University of Applied Sciences**. My focus spans Full Stack Development, IoT, and Project Management. Each day offers a new lesson, a new challenge, and a step closer to mastery.
 
 ---
 
